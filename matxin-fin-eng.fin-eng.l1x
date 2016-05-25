@@ -1,0 +1,2 @@
+# HEAD      DEPENDENT   RELPOS  ORDER
+si='root'   lem='.'     .*? x1.x2
