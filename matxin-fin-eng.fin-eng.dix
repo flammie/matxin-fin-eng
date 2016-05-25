@@ -19,7 +19,7 @@
     <e><p><l>ensimmäinen<s n="mi"/>adj|pos|sg|nom</l>
           <r>first<s n="pos"/>adj<s n="nbr"/>sg</r></p></e>
     <e><p><l>kerta<s n="mi"/>adv</l>
-          <r>time<s n="pos"/>noun<s n="nbr"/>sg</r></p></e>
+          <r>time<s n="pos"/>n<s n="nbr"/>sg</r></p></e>
     <e><p><l>,<s n="mi"/>puncth</l>
           <r>,<s n="pos"/>cm</r></p></e>
     <e><p><l>kun<s n="mi"/>adv</l>
@@ -31,17 +31,17 @@
     <e><p><l>tämäntyyppinen<s n="mi"/>adj|pos|sg|ill</l>
           <r>such<s n="pos"/>adv</r></p></e>
     <e><p><l>kritiikki<s n="mi"/>n|sg|ill</l>
-          <r>criticism<s n="pos"/>noun<s n="nbr"/>sg</r></p></e>
+          <r>criticism<s n="pos"/>n<s n="nbr"/>sg<s n="cas"/>ill</r></p></e>
     <e><p><l>vedota<s n="mi"/>vblex|actv|infma|ade</l>
           <r>implore<s n="pos"/>vblex<s n="mi"/>inf</r></p></e>
     <e><p><l>puolue<s n="mi"/>n|pl|nom|pxsp3</l>
-          <r>party<s n="pos"/>noun<s n="nbr"/>pl<s n="px"/>sp3</r></p></e>
+          <r>party<s n="pos"/>n<s n="nbr"/>pl<s n="px"/>sp3</r></p></e>
     <e><p><l>aiemmin<s n="mi"/>adv</l>
           <r>earlier<s n="pos"/>adv</r></p></e>
     <e><p><l>saada<s n="mi"/>vblex|actv|infma|ill</l>
           <r>receive<s n="pos"/>vblex<s n="mi"/>inf</r></p></e>
     <e><p><l>kannatus<s n="mi"/>n|sg|ill</l>
-          <r>support<s n="pos"/>noun<s n="nbr"/>sg</r></p></e>
+          <r>support<s n="pos"/>n<s n="nbr"/>sg</r></p></e>
     <e><p><l>..<s n="mi"/>punc</l>
           <r>..<s n="pos"/>punct</r></p></e>
     

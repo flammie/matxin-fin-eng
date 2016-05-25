@@ -1,0 +1,10 @@
+<transfer>
+ <def-rule c="">
+   <template match="//NODE[@pos='n' and @cas='ill']">
+      <copy>
+        <apply-templates select="@* | *"/>
+        <NODE lem="to" pos="pr"/>
+      </copy>
+    </template>
+  </def-rule>
+</transfer>
